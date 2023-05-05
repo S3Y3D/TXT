@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiYWt1bnNzaC1zZXllZDUyIiwiYWRkIjoiZnIxLXZtZXNzLnR1bm5lbC5jeCIsInBvcnQiOiI0NDMiLCJpZCI6IjFiYWQyNzM0LWVhOWQtMTFlZC04MWVlLTRlMmQwMWQ0NTE2NCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0eXBlIjoiIiwiaG9zdCI6ImZyMS12bWVzcy50dW5uZWwuY3giLCJwYXRoIjoiL3ZtZXNzIiwidGxzIjoidGxzIn0=
+vless://0369a914-23f4-4608-92f4-87c5d6d68824@fr2-ws.xvless.xyz:443?path=%2Fwebsocket&security=tls&encryption=none&host=fr2-ws.xvless.xyz&type=ws&sni=fr2-ws.xvless.xyz#sshocean-sefedfdf
